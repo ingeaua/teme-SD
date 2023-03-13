@@ -1,2 +1,2 @@
-# Teme Structuri de date
-Repo folosit pentru a incarca temele la Structuri de Date
+# Teme Structuri de Date
+Repo folosit pentru a încărca temele la Structuri de Date
