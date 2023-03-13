@@ -1,2 +1,2 @@
-# teme-SD
-Un repo unde urmeaza sa incarc temele la Structuri de Date
+# Teme Structuri de date
+Repo folosit pentru a incarca temele la Structuri de Date
