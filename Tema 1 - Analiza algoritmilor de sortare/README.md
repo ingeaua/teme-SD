@@ -1,6 +1,6 @@
 # Tema 1 - Analiza algoritmilor de sortare
 
-Tema constă în implementarea a 5 algoritmi de sortare și implementarea lor într-un limbaj la alegere. 
+Tema constă în implementarea a 5 algoritmi de sortare într-un limbaj de programare la alegere. 
 
 Aceștia trebuie comparați pe diferite teste pentru a evidenția avantajele și dezavantajele fiecăruia. 
 
