@@ -261,6 +261,10 @@ void copiere(long long *v1, long long *v2, int length)    /// v1 = v2
 
 bool verificare_sortare(long long *vector, int length)
 {
+    if (length == 1)
+    {
+        return 1;
+    }
     for (int i = 0; i < length-1; i++)
     {
         if (vector[i] > vector[i+1])
